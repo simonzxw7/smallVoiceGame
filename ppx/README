@@ -1,0 +1,10 @@
+Before running this small project, make sure you computer has downloaded
+python packages. For installing audio packages that this project requires,
+
+pip3 install cocos2d
+pip3 install pygame
+pip3 install pyaudio
+
+After these steps, you can now install the whole folder, and then run
+
+python3 game.py on your terminal.
